@@ -246,3 +246,234 @@
 
 [08:40:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[08:49:09] [Thread-8/INFO]: UUID of player Mistery is 813f95ee-bad1-3001-9702-34447feeec88
+[08:49:09] [Server thread/INFO]: Mistery[/[0:0:0:0:0:0:0:1]:45484] logged in with entity id 2506 at ([world]-198.5, 78.0, 261.5)
+[08:49:39] [Server thread/INFO]: Mistery lost connection: Login timed out!
+[08:49:39] [Server thread/INFO]: Mistery left the game.
+[08:49:39] [Server thread/WARN]: handleDisconnection() called twice
+[08:49:45] [Thread-9/INFO]: UUID of player Mistery is 813f95ee-bad1-3001-9702-34447feeec88
+[08:49:46] [Server thread/INFO]: Mistery[/[0:0:0:0:0:0:0:1]:57050] logged in with entity id 2601 at ([world]-198.9302084518417, 78.0, 261.5002724879294)
+[08:50:11] [Server thread/INFO]: Mistery issued server command: //wand
+[08:50:18] [Server thread/INFO]: Mistery lost connection: Disconnected
+[08:50:18] [Server thread/INFO]: Mistery left the game.
+[08:50:33] [Server thread/INFO]: Opped Mistery
+[08:50:40] [Thread-10/INFO]: UUID of player Mistery is 813f95ee-bad1-3001-9702-34447feeec88
+[08:50:40] [Server thread/INFO]: Mistery[/[0:0:0:0:0:0:0:1]:49340] logged in with entity id 2622 at ([world]-195.30000001192093, 77.30421341792974, 257.30000001192093)
+[08:51:06] [Server thread/INFO]: Mistery issued server command: /gamemode 1
+[08:51:06] [Server thread/INFO]: [Mistery: Set own game mode to Creative Mode]
+[08:51:16] [Server thread/INFO]: Mistery issued server command: //wand
+[08:51:48] [Server thread/INFO]: Mistery issued server command: //replace oak_planks
+[08:52:12] [Server thread/INFO]: Mistery issued server command: //replace grass oak_planks
+[08:52:20] [Server thread/INFO]: Mistery has just earned the achievement [Taking Inventory]
+[08:52:43] [Server thread/INFO]: Mistery issued server command: //replace grass oak_wood_planks
+[08:53:27] [Server thread/INFO]: Mistery issued server command: //replace grass_block Oak_Wood_Planks
+[08:53:40] [Server thread/INFO]: Mistery issued server command: //replace grass_block to Oak_Wood_Planks
+[08:55:12] [Server thread/INFO]: Mistery lost connection: Timed out
+[08:55:12] [Server thread/INFO]: Mistery left the game.
+[08:55:40] [Thread-11/INFO]: UUID of player Mistery is 813f95ee-bad1-3001-9702-34447feeec88
+[08:55:40] [Server thread/INFO]: Mistery[/[0:0:0:0:0:0:0:1]:38170] logged in with entity id 2761 at ([world]-195.945138211071, 77.0, 257.30000001192093)
+[08:56:01] [Server thread/INFO]: Mistery issued server command: //replace Grass_Block to Oak_Wood_Planks
+[08:56:11] [Server thread/INFO]: Mistery issued server command: /help
+[08:56:55] [Server thread/INFO]: Mistery issued server command: /rtp
+[08:57:17] [Server thread/INFO]: Mistery issued server command: /SimpleTpa
+[08:57:28] [Server thread/INFO]: Mistery issued server command: /SimpleTpa 2
+[08:57:36] [Async Chat Thread - #0/INFO]: <Mistery> plugins[m
+
+[08:57:43] [Server thread/INFO]: Mistery issued server command: /plugins
+[08:58:04] [Server thread/INFO]: Mistery issued server command: /install SimpleRtp
+[08:58:08] [Server thread/INFO]: Mistery issued server command: /install Simplertp
+[08:58:16] [Server thread/INFO]: Mistery issued server command: /plist
+[08:58:56] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[08:59:03] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[08:59:03] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[08:59:03] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
+[08:59:36] [Server thread/INFO]: [0;31;1mThe command 'rtp' could not be found.[m
+
+[08:59:41] [Server thread/INFO]: Mistery lost connection: Timed out
+[08:59:41] [Server thread/INFO]: Mistery left the game.
+[08:59:41] [Server thread/INFO]: [0;33;1m----------[m Help: page 2/6  [0;33;1m--------------------[m[m
+
+[08:59:41] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m/cycler: [mBlock data cycler tool[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m//cyl: [mGenerates a cylinder.[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m//deform: [mDeforms a selected region with an expression[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m/delchunks: [mDelete chunks that your selection includes[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m/deltree: [mFloating tree remover tool[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m/descend: [mGo down a floor[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m//distr: [mGet the distribution of blocks in the selection[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m//drain: [mDrain a pool[m
+
+[08:59:41] [Server thread/INFO]: [0;33;22m//ex: [mExtinguish nearby fire[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//expand: [mExpand the selection area[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//faces: [mBuild the walls, ceiling, and floor of a selection[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m/farwand: [mWand at a distance tool[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//fast: [mToggle fast mode[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//fill: [mFill a hole[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//fillr: [mFill a hole recursively[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//fixlava: [mFix lava to be stationary[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//fixwater: [mFix water to be stationary[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//flip: [mFlip the contents of the clipboard[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m/floodfill: [mFlood fill tool[m
+
+[08:59:42] [Server thread/INFO]: [0;33;22m//flora: [mMake flora within the region[m
+
+[09:00:19] [Server thread/INFO]: [0;33;1m----------[m Help: page 3/6  [0;33;1m--------------------[m[m
+
+[09:00:19] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//forest: [mMake a forest within the region[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m/forestgen: [mGenerate a forest[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//generate: [mGenerates a shape according to a formula.[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//generatebiome: [mSets biome according to a formula.[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//gmask: [mSet the global mask[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//green: [mGreens the area[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hcyl: [mGenerates a hollow cylinder.[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//help: [mDisplays help for WorldEdit commands[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hollow: [mHollows out the object contained in this selection[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hpos1: [mSet position 1 to targeted block[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hpos2: [mSet position 2 to targeted block[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hpyramid: [mGenerate a hollow pyramid[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//hsphere: [mGenerates a hollow sphere.[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m/info: [mBlock information tool[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//inset: [mInset the selection area[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m/jumpto: [mTeleport to a location[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//limit: [mModify block change limit[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//line: [mDraws a line segment between cuboid selection corners[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m/listchunks: [mList chunks that your selection includes[m
+
+[09:00:19] [Server thread/INFO]: [0;33;22m//load: [mLoad a schematic into your clipboard[m
+
+[09:00:54] [Server thread/INFO]: [0;33;1m----------[m Help: page 4/6  [0;33;1m--------------------[m[m
+
+[09:00:54] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/lrbuild: [mLong-range building tool[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/mask: [mSet the brush mask[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/mat: [mSet the brush material[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//move: [mMove the contents of the selection[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//naturalize: [m3 layers of dirt on top then rock below[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/none: [mUnbind a bound tool from your current item[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//outset: [mOutset the selection area[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//overlay: [mSet a block on top of blocks in the region[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//paste: [mPaste the clipboard's contents[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//pos1: [mSet position 1[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//pos2: [mSet position 2[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/pumpkins: [mGenerate pumpkin patches[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//pyramid: [mGenerate a filled pyramid[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/range: [mSet the brush range[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//redo: [mRedoes the last action (from history)[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//regen: [mRegenerates the contents of the selection[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m/remove: [mRemove all entities of a type[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//removeabove: [mRemove blocks above your head.[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//removebelow: [mRemove blocks below you.[m
+
+[09:00:54] [Server thread/INFO]: [0;33;22m//removenear: [mRemove blocks near you.[m
+
+[09:01:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:01:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:05:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:05:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:05:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:06:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+

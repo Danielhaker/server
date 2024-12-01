@@ -67,3 +67,36 @@
 [08:34:57] [main/INFO] [EaglercraftXBungee]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
 [08:34:57] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.1 by lax1dude
 [08:34:57] [Netty Boss IO Thread #1/INFO]: Listening on /127.0.0.1:25577
+[08:49:03] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server/bungee/server-icon.png
+[08:49:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56726]: Connected via websocket
+[08:49:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56726]: Origin header is null
+[08:49:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56726]: Logged in as 'Mistery'
+[08:49:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56726|Mistery] -> UpstreamBridge has connected
+[08:49:08] [Netty Worker IO Thread #1/INFO]: [Mistery|/[0:0:0:0:0:0:0:1%0]:56726] <-> ServerConnector [lobby] has connected
+[08:49:39] [Netty Worker IO Thread #1/INFO]: [Mistery] disconnected with: Login timed out!
+[08:49:39] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56726|Mistery] -> UpstreamBridge has disconnected
+[08:49:39] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56726|Mistery] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:49:45] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45646]: Connected via websocket
+[08:49:45] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45646]: Origin header is null
+[08:49:45] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45646]: Logged in as 'Mistery'
+[08:49:45] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45646|Mistery] -> UpstreamBridge has connected
+[08:49:45] [Netty Worker IO Thread #2/INFO]: [Mistery|/[0:0:0:0:0:0:0:1%0]:45646] <-> ServerConnector [lobby] has connected
+[08:50:18] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45646|Mistery] -> UpstreamBridge has disconnected
+[08:50:18] [Netty Worker IO Thread #2/INFO]: [Mistery] disconnected with: Proxy lost connection to server.
+[08:50:18] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45646|Mistery] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:50:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58572]: Connected via websocket
+[08:50:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58572]: Origin header is null
+[08:50:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58572]: Logged in as 'Mistery'
+[08:50:40] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58572|Mistery] -> UpstreamBridge has connected
+[08:50:40] [Netty Worker IO Thread #0/INFO]: [Mistery|/[0:0:0:0:0:0:0:1%0]:58572] <-> ServerConnector [lobby] has connected
+[08:55:12] [Netty Worker IO Thread #0/INFO]: [Mistery] disconnected with: Proxy lost connection to server.
+[08:55:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58572|Mistery] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:55:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58572|Mistery] -> UpstreamBridge has disconnected
+[08:55:40] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40842]: Connected via websocket
+[08:55:40] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40842]: Origin header is null
+[08:55:40] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40842]: Logged in as 'Mistery'
+[08:55:40] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40842|Mistery] -> UpstreamBridge has connected
+[08:55:40] [Netty Worker IO Thread #1/INFO]: [Mistery|/[0:0:0:0:0:0:0:1%0]:40842] <-> ServerConnector [lobby] has connected
+[08:59:41] [Netty Worker IO Thread #1/INFO]: [Mistery] disconnected with: Proxy lost connection to server.
+[08:59:41] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40842|Mistery] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:59:41] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40842|Mistery] -> UpstreamBridge has disconnected

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "813f95ee-bad1-3001-9702-34447feeec88",
+    "name": "Mistery",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
