@@ -477,3 +477,59 @@
 
 [09:06:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[09:07:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:07:55] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:08:33] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:11:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:11:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:12:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[09:12:31] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[09:12:31] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[09:12:31] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
