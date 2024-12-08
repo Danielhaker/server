@@ -90,7 +90,7 @@ scoreboard:
     enabled: true
     rate: 200 # In ticks (20 ticks = 1 second)
 
-  title: "&d&lDeluxeHub 3 &7(%online%/%online_max%)"
+  title: "&d&lMisteryMC &7(%online%/%online_max%)"
   lines:
     - "&7&m----------------------"
     - "&e&lPlayer:"
@@ -150,20 +150,10 @@ announcements:
   announcements:
     test1:
       - "&r"
-      - "<center>&e&lANNOUNCEMENT</center>"
-      - "<center>&7Rate this plugin 5 stars on Spigot!</center>"
+      - "<center>&e&lBienvenido
+      </center>"
+      - "<center>&7Servidor libre!!!</center>"
       - "&r"
-    test2:
-      - "&r"
-      - "<center>&e&lANNOUNCEMENT</center>"
-      - "<center>&7This plugin was created by &eItsLewizzz</center>"
-      - "&r"
-    test3:
-      - "&r"
-      - "<center>&e&lANNOUNCEMENT</center>"
-      - "<center>&7Configure these messages in the &bconfig.yml</center>"
-      - "&r"
-
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 # | LAUNCHPAD                                |
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
@@ -283,13 +273,13 @@ join_leave_messages:
 join_events:
   - "[MESSAGE] &8&m+---------------***---------------+"
   - "[MESSAGE] &r"
-  - "[MESSAGE] &r    &7Welcome, &b&n%player%&r &7to the server"
+  - "[MESSAGE] &r    &7Bienvenido, &b&n%player%&r &7al servidor"
   - "[MESSAGE] &r"
-  - "[MESSAGE] &r  &2&lWEBSITE &fwww.examplemc.net"
-  - "[MESSAGE] &r  &3&lSTORE &fstore.examplemc.net"
-  - "[MESSAGE] &r  &9&lDISCORD &fdiscord.examplemc.net"
-  - "[MESSAGE] &r"
-  - "[MESSAGE] &r            &7&oPowered By DeluxeHub"
+#  - "[MESSAGE] &r  &2&lWEBSITE &fwww.examplemc.net"
+#  - "[MESSAGE] &r  &3&lSTORE &fstore.examplemc.net"
+ # - "[MESSAGE] &r  &9&lDISCORD &fdiscord.examplemc.net"
+ # - "[MESSAGE] &r"
+ # - "[MESSAGE] &r            &7&oPowered By DeluxeHub"
   - "[MESSAGE] &8&m+---------------***---------------+"
   - "[TITLE] &b&lWELCOME;&f%player%;1;2;1"
   - "[SOUND] ENTITY_PLAYER_LEVELUP"
@@ -331,7 +321,7 @@ custom_join_items:
   items:
     infobook:
       material: BOOK
-      amount: 1
+      amount: 0
       slot: 0
       display_name: "&dServer Information"
       lore:
@@ -347,7 +337,7 @@ custom_join_items:
     server_selector:
       material: NETHER_STAR
       amount: 1
-      slot: 4
+      slot: 9
       display_name: "&eServer Selector"
       lore:
         - "&7Right-click to open the server selector!"
@@ -360,7 +350,7 @@ custom_join_items:
 
 player_hider:
   # Should the player hider feature be enabled?
-  enabled: true
+  enabled: false
   # Slot the item should be given to?
   slot: 8
   # Should we prevent them from moving/dropping the item?
